@@ -1,4 +1,4 @@
-# Simple E-commerce Application
+# Mini Project E-commerce
 
 A full-stack e-commerce application built with Encore.ts backend and React frontend.
 
