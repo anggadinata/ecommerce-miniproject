@@ -9,7 +9,9 @@ interface CartItemProps {
   onUpdateQuantity: (productId: number, quantity: number) => void;
   onRemove: (productId: number) => void;
 }
-
+/*
+  check props
+*/
 export function CartItem({ item, onUpdateQuantity, onRemove }: CartItemProps) {
   const handleQuantityChange = (value: string) => {
     const quantity = parseInt(value) || 0;
