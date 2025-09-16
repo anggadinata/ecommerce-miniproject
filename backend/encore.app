@@ -1,1 +1,1 @@
-{"id": "ecommerce-app-59ci", "lang": "typescript"}
+{"id": "ecommerce-miniproject", "lang": "typescript"}
