@@ -110,22 +110,5 @@ For production applications, we recommend integrating with GitHub instead of usi
 
 Once connected, pushing to your GitHub repository will automatically trigger deployments. Encore Cloud Pro users also get Preview Environments for each pull request.
 
-### Deploy via GitHub
-
-After connecting GitHub, deploy by pushing to your repository:
-
-```bash
-git add -A .
-git commit -m "Deploy via GitHub"
-git push origin main
-```
-
-## Additional Resources
-
-- [Encore Documentation](https://encore.dev/docs)
-- [Deployment Guide](https://encore.dev/docs/platform/deploy/deploying)
-- [GitHub Integration](https://encore.dev/docs/platform/integrations/github)
-- [Encore Cloud Dashboard](https://app.encore.dev)
-
 
 
